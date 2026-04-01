@@ -1,15 +1,63 @@
 # QR Code Generator with Logo
-Provides a QR code generator that enables you to embed a predefined or custom logo in your QR code and save it as a high-quality image with various shapes of fading shadows. I hope you [download](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo/releases) it, use it, and, of course, enjoy it! It works seamlessly on Windows, and it is also compatible with Linux using [Mono](https://www.mono-project.com/).
 
-![QR Code Generator with Logo photo](https://raw.githubusercontent.com/ArdeshirV/QrCodeGeneratorWithLogo/main/QrCodeGeneratorWithLogo/img/OuP.jpg)<br/>
+A QR code generator that allows you to embed a predefined or custom logo into your QR codes and export them as high-quality images with customizable styles and fading effects.
 
+This application works seamlessly on Windows and is also compatible with Linux using [Mono](https://www.mono-project.com/).
 
+![QR Code Generator with Logo](https://raw.githubusercontent.com/ArdeshirV/QrCodeGeneratorWithLogo/main/QrCodeGeneratorWithLogo/img/OuP.jpg)
 
-## I truly appreciate and thank you for any donation you can give to my project
-![Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Bitcoin%201GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi.png)<br/>Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi
+---
 
+## 🚀 Features
 
-![Ethereum: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E](https://raw.githubusercontent.com/ArdeshirV/resources/refs/heads/master/Wallets/Donation/QR/Ethereum%200x6E6465394D14975956cd1BD37ab4E35F2C60300E.png)<br/>Ethereum: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E<br/>
+* Generate QR codes with embedded logos
+* Export high-quality QR images
+* Custom styling and fading shadow effects
+* Cross-platform support (Windows & Linux via Mono)
 
+---
 
-#### Copyright&copy; 2021 [ArdeshirV](mailto:ArdeshirV@protonmail.com), Licensed under GPL<sup>v3+</sup>
+## 📥 Download
+
+You can download the original application from:
+https://github.com/ArdeshirV/QrCodeGeneratorWithLogo/releases
+
+---
+
+## 🙌 Credits
+
+This project is **based on the original work** by **ArdeshirV**:
+https://github.com/ArdeshirV/QrCodeGeneratorWithLogo
+
+Special thanks to the original author for creating and open-sourcing this project.
+
+---
+
+## 🛠 Modifications
+
+Modifications and improvements made by **Harshit Joshi**:
+
+* Project setup and repository restructuring
+* Code organization and cleanup
+* (Add your changes here if you modify more)
+
+---
+
+## 📜 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+* You are free to use, modify, and distribute this software
+* Any distributed modifications must also be open-source under GPL-3.0
+* Original copyright and license must be preserved
+
+See the [LICENSE](LICENSE) file for full details.
+
+---
+
+## 💖 Support the Original Author
+
+If you find this project useful, consider supporting the original creator:
+
+Bitcoin: `1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi`
+Ethereum: `0x6E6465394D14975956cd1BD37ab4E35F2C60300E`
